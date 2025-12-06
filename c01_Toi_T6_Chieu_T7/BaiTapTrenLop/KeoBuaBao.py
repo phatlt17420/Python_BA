@@ -1,3 +1,6 @@
+## Bài tập về nhà: làm kéo búa bao. ghi điểm, thắng +1, hòa + 0.5; chênh lêc̣ch 2 điềm là thắng, in ra lịch ử trò chơi
+
+
 nguoi = input('Người ra: ')
 while (nguoi not in ['kéo', 'búa', 'bao']):
     nguoi = input('Người nhập lại: ')
